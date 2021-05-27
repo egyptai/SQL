@@ -1,0 +1,1 @@
+select name, addr from usertbl where addr = '경남' or addr = '전남' or addr = '경북'

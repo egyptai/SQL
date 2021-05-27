@@ -1,0 +1,1 @@
+select salary, to_date from salaries;

@@ -1,0 +1,1 @@
+select name, height from usertbl where name LIKE '김%';

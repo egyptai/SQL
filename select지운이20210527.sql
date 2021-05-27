@@ -1,0 +1,1 @@
+select * from memberTBL where memberName = '지운이';

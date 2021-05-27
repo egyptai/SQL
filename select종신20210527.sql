@@ -1,0 +1,1 @@
+select name, height from usertbl where name like '_종신';

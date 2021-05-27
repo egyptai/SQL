@@ -1,0 +1,1 @@
+select name, addr FROM usertbl where addr IN ('경남', '전남', '경북');

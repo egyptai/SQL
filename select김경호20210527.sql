@@ -1,0 +1,1 @@
+select * from usertbl where name = '김경호';

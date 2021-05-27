@@ -1,0 +1,1 @@
+select emp_no as '번호', birth_date '생일' from employees;

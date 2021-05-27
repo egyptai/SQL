@@ -1,0 +1,1 @@
+select userID, name from usertbl  where birthyear >= 1970 or height >= 182;
