@@ -1,0 +1,10 @@
+use sqldb;
+create table testTbl3
+	(id int AUTO_INCREMENT PRIMARY KEY,
+     userName char(3),
+     age int );
+AlTER TABLE testTbl3 AUTO_INCREMENT=1000;
+INSERT INTO TESTtBL3 VALUES (NULL, '나연', 20);
+INSERT INTO TESTtBL3 VALUES (NULL, '정연', 18);
+INSERT INTO TESTtBL3 VALUES (NULL, '모모', 19);
+SELECT * FROM TESTTBL3;
